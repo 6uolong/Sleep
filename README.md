@@ -1,2 +1,2 @@
 # Sleep
-Lock and sleep
+Lock your phone then you can go to sleep
