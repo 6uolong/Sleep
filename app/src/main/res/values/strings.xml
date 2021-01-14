@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Locker</string>
+    <string name="accessibility_info">强力锁机模式,谨慎使用</string>
+</resources>
